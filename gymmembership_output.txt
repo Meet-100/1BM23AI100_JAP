@@ -1,0 +1,15 @@
+Welcome to the gym
+Enter number of members:
+1
+Enter your name
+Meet
+Enter your age:
+20
+Enter your membership Status:
+True
+Enter your membership duration:
+6
+Name: Meet
+Age: 20
+Status: true
+Gym fee is 6000.0 for 6 months
