@@ -1,0 +1,8 @@
+Capacity of StringBuffer object sb116
+Capacity of StringBuffer object sb121
+Enter a String: 
+Hello
+Reversed String in Uppercase OLLEH
+Enter a string to append
+Meet
+Hi I am Meet
