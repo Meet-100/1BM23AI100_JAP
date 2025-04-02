@@ -1,0 +1,2 @@
+Is Monday a Workday? true
+Is Saturday a Workday? false
