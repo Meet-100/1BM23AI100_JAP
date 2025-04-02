@@ -1,0 +1,19 @@
+Enter name for student 1: Mayoor
+Enter marks for student 1: 87
+Student Mayoor has scored: 87
+Enter name for student 2: Aarush
+Enter marks for student 2: 76
+Student Aarush has scored: 76
+Enter name for student 3: Nishant
+Enter marks for student 3: 54
+Student Nishant has scored: 54
+Enter name for student 4: Mahit
+Enter marks for student 4: 98
+Student Mahit has scored: 98
+Enter name for student 5: Pavan
+Enter marks for student 5: 92
+Student Pavan has scored: 92
+
+--- Exam Score Statistics ---
+Total sum of all marks: 407
+Highest marks attained: 98 by Mahit
