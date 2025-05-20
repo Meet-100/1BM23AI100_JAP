@@ -1,0 +1,9 @@
+Elements in the queue:
+10
+20
+30
+Dequeued element: 10
+Elements in the queue:
+20
+30
+Queue size: 2
